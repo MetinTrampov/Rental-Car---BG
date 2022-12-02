@@ -29,7 +29,7 @@ SCSS 1.15.0
 #For Admin Permissions</br>
 
     Username: admin@8888
-    Password: admin
+    Password: admin</br>
     
     Some Screenshots  📷
 
