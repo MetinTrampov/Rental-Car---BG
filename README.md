@@ -29,9 +29,10 @@ SCSS 1.15.0
 #For Admin Permissions</br>
 
     Username: admin@8888
-    Password: admin</br>
+    Password: admin
     
-    Some Screenshots  📷
+  
+  <h2>Some Screenshots  📷</h2>
 
 <kbd><img src="https://user-images.githubusercontent.com/63451415/205394316-0d823edf-5b7b-43ea-a30f-9951752c98af.png"/></kbd>
 <br/><br/>
