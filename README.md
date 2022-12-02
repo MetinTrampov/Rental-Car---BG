@@ -5,7 +5,7 @@ ReactApp
 <h2>Getting Started ✌️</h2>
 
 
-Run the project
+<h3>How to run the project</h3>
 
 1. npm install
 2. npm start
