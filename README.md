@@ -2,7 +2,7 @@
 Rental Car - BG Web Site
 
 
-<h2>Getting Started ✌️</h2>
+<h2>Getting Started 🚀</h2>
 
 
 <h3>How to run the project</h3>
