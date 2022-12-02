@@ -2,7 +2,7 @@
 ReactApp
 
 
-Getting Started
+<h2>Getting Started<h2>
 
 
 Run the project
