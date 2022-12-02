@@ -27,6 +27,7 @@ SCSS 1.15.0
     Password: Pa$$w0rd!
     
 #For Admin Permissions</br>
+
     Username: admin@8888
     Password: admin
 
