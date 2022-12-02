@@ -19,3 +19,14 @@ React-Bootstrap 2.4.0 <br>
 Axios 0.27.0 <br>
 SCSS 1.15.0
 
+<h2>Test Site</h2>
+
+#For Normal User Permissions</br>
+
+    Username: vyzuz@mailinator.comm
+    Password: Pa$$w0rd!
+    
+#For Admin Permissions</br>
+    Username: admin@8888
+    Password: admin
+
