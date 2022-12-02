@@ -1,0 +1,220 @@
+{
+  "vehicles": [
+    {
+      "id": "d2df73cc-5197-4e40-8a72-ee573969a305",
+      "isActive": true,
+      "picture": "https://cars.usnews.com/pics/size/776x517/images/Auto/izmo/i5451/2016_audi_a4_angularfront.jpg",
+      "brand": "Audi",
+      "model": "A4",
+      "year": "2016",
+      "type": "Estate",
+      "fuel": "Petrol",
+      "numberOfSeats": 4,
+      "pricePerDay": 80.13,
+      "carCount": 4
+    },
+    {
+      "id": "7b5edfcf-18b2-481f-85e9-d1eea878d488",
+      "isActive": true,
+      "picture": "https://cars.usnews.com/pics/size/350x262/images/Auto/izmo/i159614834/2022_mercedes_benz_e_class_sedan_angularfront.jpg",
+      "brand": "Mercedes",
+      "model": "Benz E-Class",
+      "year": "2022",
+      "type": "Luxury",
+      "fuel": "Hybrid",
+      "numberOfSeats": 5,
+      "pricePerDay": "100",
+      "carCount": 5
+    },
+    {
+      "isActive": true,
+      "picture": "https://cars.usnews.com/pics/size/776x517/images/Auto/izmo/i159614825/2022_honda_accord_sedan_angularfront.jpg",
+      "brand": "Honda",
+      "model": "Accord",
+      "year": "2022",
+      "type": "Luxury",
+      "fuel": "Hybrid",
+      "numberOfSeats": "5",
+      "pricePerDay": "107.99",
+      "id": "Ni8VOvF",
+      "carCount": 5
+    },
+    {
+      "isActive": true,
+      "picture": "https://cars.usnews.com/pics/size/350x262/images/Auto/izmo/i159615255/2023_bmw_4_series_angularfront.jpg",
+      "brand": "BMW",
+      "model": "4-Series",
+      "year": "2023",
+      "type": "Luxury",
+      "fuel": "Petrol",
+      "numberOfSeats": "5",
+      "pricePerDay": "98",
+      "id": "OLm5fxE",
+      "carCount": "5"
+    },
+    {
+      "isActive": true,
+      "picture": "https://cars.usnews.com/pics/size/350x262/images/Auto/izmo/i159614887/2022_nissan_altima_angularfront.jpg",
+      "brand": "Nissan",
+      "model": "Altima ",
+      "year": "2022",
+      "type": "Estate",
+      "fuel": "Petrol",
+      "numberOfSeats": "5",
+      "pricePerDay": "89",
+      "id": "zUCKHMA",
+      "carCount": 20
+    },
+    {
+      "isActive": true,
+      "picture": "https://cars.usnews.com/pics/size/350x262/images/Auto/izmo/i159615412/2023_chevrolet_malibu_angularfront.jpg",
+      "brand": "Chevrolet ",
+      "model": "Malibu ",
+      "year": "2023",
+      "type": "Economy",
+      "fuel": "Hybrid",
+      "numberOfSeats": "5",
+      "pricePerDay": "123",
+      "id": "BapmaVZ",
+      "carCount": "1"
+    },
+    {
+      "isActive": true,
+      "picture": "https://cars.usnews.com/static/images/Auto/izmo/i159615278/2023_audi_a6_sedan_angularfront.jpg",
+      "brand": "Audi",
+      "model": "A6",
+      "year": "2023",
+      "type": "Economy",
+      "fuel": "Hybrid",
+      "numberOfSeats": "5",
+      "pricePerDay": "145",
+      "id": "JcbyFMi",
+      "carCount": "5"
+    },
+    {
+      "isActive": false,
+      "picture": "https://cars.usnews.com/pics/size/350x262/images/Auto/izmo/i159615220/2023_subaru_brz_angularfront.jpg",
+      "brand": "Subaru",
+      "model": "BRZ",
+      "year": "2023",
+      "type": "",
+      "fuel": "",
+      "numberOfSeats": "",
+      "pricePerDay": "100",
+      "carCount": "5",
+      "id": "zv_0Jfq"
+    }
+  ],
+  "users": [
+    {
+      "id": "f529a9c7-b5bb-4d3c-a451-825c03b12013",
+      "isAdmin": true,
+      "isVIP": false,
+      "totalRentedCars": 0,
+      "picture": "https://i.pinimg.com/originals/f0/1e/33/f01e338a5f8ac828c84e9da2a2d4b0ab.jpg",
+      "name": "Анна Трифонова",
+      "email": "kellyjohns@caxt.com",
+      "password": "admin",
+      "phone": "0893214144",
+      "address": "Пловдив , бл . България № 15"
+    },
+    {
+      "isAdmin": true,
+      "name": "Александър Петров ",
+      "isVIP": false,
+      "totalRentedCars": 0,
+      "picture": "https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "email": "vyzuz@mailinator.com",
+      "phone": "+1 (933) 263-8266",
+      "address": "София , бл . България № 36",
+      "password": "admin",
+      "id": "gFEmTLy"
+    },
+    {
+      "isAdmin": false,
+      "name": "Adam Hun",
+      "isVIP": true,
+      "totalRentedCars": 5,
+      "picture": "https://banksbrower.com/wp-content/uploads/2020/02/Adam-Brower-scaled.jpg",
+      "email": "adm@mailinator.comm",
+      "phone": "+1 (549) 533-7445",
+      "address": "341 Laurel Ave. New Castle, PA 16101",
+      "password": "Pa$$w0rd!",
+      "id": "ewktb1K"
+    },
+    {
+      "isAdmin": true,
+      "isVIP": true,
+      "totalRentedCars": 4,
+      "name": "Tiffani Danilo  ",
+      "picture": "https://images.unsplash.com/photo-1610879247468-ba0c12f0d709?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "email": "admin@8888",
+      "phone": "+1 (549) 533-7445",
+      "address": "117 Summit St. Fort Lauderdale, FL 33308",
+      "password": "admin",
+      "id": "eektb1k"
+    },
+    {
+      "isActive": false,
+      "isVIP": false,
+      "totalRentedCars": 0,
+      "name": "Дияна Господинова",
+      "picture": "https://i.pinimg.com/originals/06/c0/ad/06c0adcac53bcecc2ab6f6b33a891edc.jpg",
+      "email": "daiya88@gmail.coma",
+      "phone": "0896564431",
+      "address": "Пловдив , бл .  Руски № 31",
+      "password": "toni",
+      "id": "ZYYul4H"
+    },
+    {
+      "isAdmin": false,
+      "name": "Мариа Василева",
+      "picture": "https://thumbs.dreamstime.com/b/mujer-joven-trabajando-en-un-ordenador-port%C3%A1til-una-muy-que-trabaja-182344040.jpg",
+      "email": "mimi@gmail.com",
+      "phone": "0775842345",
+      "address": "Пловдив , бл . Мария Луиза № 95",
+      "password": "mimi",
+      "isVIP": false,
+      "totalRentedCars": 1,
+      "id": "r6VYQeV"
+    }
+  ],
+  "rents": [
+    {
+      "id": 1,
+      "userId": "eektb1k",
+      "vehicleId": "OLm5fxE",
+      "status": "In Progress",
+      "startDate": "2022-06-04",
+      "endDate": "2022-06-11",
+      "totalPrice": "583.10"
+    },
+    {
+      "id": 9,
+      "userId": "ewktb1K",
+      "vehicleId": "Ni8VOvF",
+      "status": "Awaiting Confirmation",
+      "startDate": "2022-06-04",
+      "endDate": "2022-06-25",
+      "totalPrice": "2041.01"
+    },
+    {
+      "id": 10,
+      "userId": "r6VYQeV",
+      "vehicleId": "zUCKHMA",
+      "status": "In Progress",
+      "startDate": "2022-11-29",
+      "endDate": "2022-12-10",
+      "totalPrice": "881.10"
+    },
+    {
+      "id": 11,
+      "userId": "eektb1k",
+      "vehicleId": "7b5edfcf-18b2-481f-85e9-d1eea878d488",
+      "status": "Awaiting Confirmation",
+      "startDate": "2022-12-01",
+      "endDate": "2022-12-30",
+      "totalPrice": "2465.00"
+    }
+  ]
+}
