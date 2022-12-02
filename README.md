@@ -13,9 +13,9 @@ ReactApp
 
 
 <h2>🔨 Built with:</h2>
-ReactJS 18.1.0
-Json-server 0.17.0
-React-Bootstrap 2.4.0
-Axios 0.27.0
+ReactJS 18.1.0 <br>
+Json-server 0.17.0 <br>
+React-Bootstrap 2.4.0 <br>
+Axios 0.27.0 <br>
 SCSS 1.15.0
 
